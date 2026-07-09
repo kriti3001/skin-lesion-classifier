@@ -4,3 +4,4 @@ models/*.h5
 models/*.keras
 venv/
 .ipynb_checkpoints/
+demo_images/
