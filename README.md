@@ -1,6 +1,4 @@
-# \# Skin Lesion Classifier
-
-# 
+\# Skin Lesion Classifier
 
 # A deep learning model that classifies dermatoscopic skin images into 7 lesion categories, including melanoma, using transfer learning. I built this end to end: data pipeline, model training with class imbalance handling, comparison across three CNN architectures, and a deployed web app.
 
