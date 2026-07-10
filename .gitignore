@@ -1,7 +1,9 @@
 # Project-specific
 data/
+!data/processed/
+!data/processed/label_classes.txt
 models/*.h5
-models/*.keras
+models/final_model*.keras
 venv/
 .ipynb_checkpoints/
 demo_images/
